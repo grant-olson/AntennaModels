@@ -1,6 +1,8 @@
-This is just a place to stash my workspace for various antenna models
-for amateur radio. Unlikely to be of use to others, but feel free to
-enjoy.
+This is a place to stash my workspace for various antenna models for
+amateur radio. Some of the antennas match my back yard setup, but
+others are more archytypal antennas such as a generic multiband
+vertical.  If the generic ones help you get started, please feel free
+to use them as you wish.
 
 All software listed is Windows-only but runs in Wine:
 
